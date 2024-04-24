@@ -1,0 +1,4 @@
+baseURL = 'https://example.org/'
+languageCode = 'en-us'
+title = 'Gaetano Dalius Ambrico'
+theme = 'ananke'
