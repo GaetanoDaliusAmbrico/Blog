@@ -1,7 +1,6 @@
 +++
 title = 'My First Post'
 date = 2024-04-24T23:13:17+02:00
-draft = true
 +++
 
 # Test title
